@@ -1,0 +1,23 @@
+Collect all "label" and "text" values from this form, skip already translated strings (wrapped in the "trans()" or "__()" function), and make a list for me to add in PHP array, as in this example:
+
+    'admin.star' => 'Stern',
+    'admin.stars' => 'Sterne',
+    'admin.new_entries' => 'Neun-Einträge',
+    'admin.advent_calendar' => 'Adventskalender',
+
+    'admin.choose' => 'Auswählen',
+    
+    'admin.past_lectures' => 'Vergangene Vorträge',
+    'admin.cf_lectures' => 'Aktuelle/Zukünftige Vorträge',
+    
+    'admin.consumer' => 'Verbraucher',
+    'admin.retailer' => 'Einzelhändler',
+    'admin.levels' => 'Ebenen',
+    'admin.podcast' => 'Podcast',
+    'admin.episodes' => 'Episoden',
+
+
+Make sure each key means the same thing on English as the value on German does. If there is no such strings, tell me to send a new form. 
+
+The Form:
+

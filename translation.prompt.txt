@@ -1,0 +1,26 @@
+Collect visible HTML texts (including placeholders, alts and title properties) from this template, skip already translated strings (wrapped in trans() function), and make a list for me to add in PHP array, as in this example:
+
+    'webinar.workshopslider.title' => 'Weitere Workshops',
+    'webinar.show.learnings' => 'Learnings',
+    'webinar.show.knowledge' => 'Kenntnisse',
+    'webinar.show.agenda' => 'Agenda',
+    'webinar.show.go_to_webinar_link.canon' => 'Webinar buchen',
+    'webinar.show.go_to_webinar_link.partner' => 'Partner-Webinar buchen',
+    'webinar.show.view.canon' => 'Webinar ansehen',
+    'webinar.show.view.partner' => 'Partner-Webinar ansehen',
+    'webinar.events.title' => 'Dieses Webinar ist Teil des Events|Dieses Webinar ist Teil der Events',
+
+
+
+In case of html list items, add them separated as in this example:
+
+    'password.reset.requirements.list_1' => 'mindestens 8 Zeichen lang',
+    'password.reset.requirements.list_2' => 'sowohl Groß- als auch Kleinbuchstaben',
+    'password.reset.requirements.list_3' => 'mindestens eine Ziffer (0-9) und ein Symbol',
+    'password.reset.requirements.list_4' => 'es darf kein Datum im Passwort enthalten sein',
+    'password.reset.requirements.list_5' => 'Das Passwort darf sich nicht auf einer Liste bekannter trivialer und/oder kompromittierter Passwörter befinden',
+
+
+If there is no such strings, tell me to send a new template. 
+
+Template:
